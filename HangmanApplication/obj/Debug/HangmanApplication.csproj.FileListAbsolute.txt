@@ -1,0 +1,7 @@
+c:\users\scott\documents\visual studio 2017\Projects\HangmanApplication\HangmanApplication\bin\Debug\HangmanApplication.exe.config
+c:\users\scott\documents\visual studio 2017\Projects\HangmanApplication\HangmanApplication\bin\Debug\HangmanApplication.exe
+c:\users\scott\documents\visual studio 2017\Projects\HangmanApplication\HangmanApplication\bin\Debug\HangmanApplication.pdb
+c:\users\scott\documents\visual studio 2017\Projects\HangmanApplication\HangmanApplication\obj\Debug\HangmanApplication.csprojResolveAssemblyReference.cache
+c:\users\scott\documents\visual studio 2017\Projects\HangmanApplication\HangmanApplication\obj\Debug\HangmanApplication.exe
+c:\users\scott\documents\visual studio 2017\Projects\HangmanApplication\HangmanApplication\obj\Debug\HangmanApplication.pdb
+C:\Users\Scott\Documents\Visual Studio 2017\Projects\HangmanApplication\HangmanApplication\bin\Debug\HangmanList.txt
